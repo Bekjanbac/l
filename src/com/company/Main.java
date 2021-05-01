@@ -25,8 +25,8 @@ public class Main {
     }
     public static int generateRandomAge() {
             Random random = new Random();
-            int nnn= random.nextInt(60);
-            return nnn;
+            int rand= random.nextInt(60);
+            return rand;
     }
 }
 
